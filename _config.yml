@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: janGithub122
 description: A webpage for my github projects
+markdown: GFM
 show_downloads: false
