@@ -1,7 +1,8 @@
+---
 layout: page
 title: "About"
 permalink: /about/
+---
 
-TESTING
-
+I don't currently have almost anything, but I might have more later 
 
