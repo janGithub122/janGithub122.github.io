@@ -6,5 +6,5 @@ permalink: /about/
 
 I love testing & github!!!
 
-I don't have much to show right now, so here's a cat in the meantime
+I don't have much to say currently
 ![Funny Cat](funnycat.png)

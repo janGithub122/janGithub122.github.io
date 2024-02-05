@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Resume"
+permalink: /resume/
+---
+
+<h1>My Github Repositories</h1>
+
+<h2><u><a href="https://github.com/janGithub122/JellyMarioBot">Jelly Mario Bot</a></u></h2>
+My first github repository, a very simple python script that automatically moves mario in a browser game
+Link: 
+
