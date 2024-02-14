@@ -10,6 +10,6 @@ permalink: /resume/
 
 ![Jelly Mario](assets/images/jellymario.gif)
 
-My first github repository, a very simple python script that automatically moves mario in a browser game
+This was my first github repository, a very simple python script that automatically moves mario in a browser game
 
 
