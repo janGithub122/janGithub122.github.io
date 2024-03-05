@@ -13,7 +13,7 @@ In the current state of the project, you can talk to the HuggingChat AI using yo
 <br>
 <br>
 <h3>Update #2</h3>
-The project has been uploaded to github which you can check out <u><a href="https://github.com/janGithub122/AudioChatbot" target="_blank">here</a></u>. Currently I've added a way to configure the TTS' speed, but I'm yet to add a pitch configuration, so hopefully I can get that done soon.
+The project has been uploaded to github which you can check out <u><a href="https://github.com/janGithub122/AudioChatbot" target="_blank">here</a></u>. Currently I've added a way to configure the TTS' speed, but I'm yet to add a pitch configuration, so hopefully I can get that done soon.<br><br>
 
 <h2><u>RGBdle</u></h2>
 In my past projects, they've all been just scripts that the user has to run inside of a command line, so in this project I want to create something that's visual. What I want to do with this project is create a Worlde-like web application with flask. Instead of having the user guess words, I want the user to attempt to guess a given color's RGB values. I currently have a bit of progress, and the main focus right now is functionality over visuals, as I should just be able to paint over the bare bones<br><br>
